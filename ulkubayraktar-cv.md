@@ -61,10 +61,10 @@ As a Python software developer at 12M Bilişim & Technology, I worked on a range
 - February 2021
 
 ### Sakarya University
-- Licentiate degree, Computer Software Engineering
+- Bachelor's degree, Computer Software Engineering
 - 2011 - 2016
 - Activities and societies: Sakarya University Computer Society, Sakarya University Cyber Security Community
 
 ### Anadolu University
-- Licentiate degree, Management Information Systems and Services
+- Bachelor's degree, Management Information Systems and Services
 - September 2016 - February 2022
